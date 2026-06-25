@@ -1,0 +1,221 @@
+{
+  "model": "deepseek-chat",
+  "input_file": "trump_truths.csv",
+  "processed_count": 20,
+  "items": [
+    {
+      "id": "113404826487996526",
+      "date": "2024-11-01T00:18:46.050Z",
+      "source_length": 268,
+      "summary": "Kamala Harris's campaign is attacking opponents and Biden insulted supporters, showing a lack of love for Americans.",
+      "key_points": [
+        "Kamala compares opponents to mass murderers",
+        "Biden called supporters garbage",
+        "Cannot lead without loving Americans"
+      ]
+    },
+    {
+      "id": "113404838425751868",
+      "date": "2024-11-01T00:21:48.206Z",
+      "source_length": 283,
+      "summary": "A young USMC veteran was murdered by a Mexican cartel while driving through Mexico, and his family joined the speaker in Nevada.",
+      "key_points": [
+        "Nicholas Quets, a USMC veteran, was killed by a Mexican cartel in Mexico.",
+        "The incident occurred while he was driving to a beach weekend with friends.",
+        "His family appeared with the speaker in Henderson, Nevada."
+      ]
+    },
+    {
+      "id": "113404894982236716",
+      "date": "2024-11-01T00:36:11.189Z",
+      "source_length": 92,
+      "summary": "Trump campaign urges Nevada voters to turn out and provides a voting information link.",
+      "key_points": [
+        "Encourages voting in Nevada",
+        "Provides Trump campaign voting info link"
+      ]
+    },
+    {
+      "id": "113405441290422074",
+      "date": "2024-11-01T02:55:07.193Z",
+      "source_length": 205,
+      "summary": "Trump thanks Nevada supporters, saying hardworking patriots built the country and will save it in 5 days.",
+      "key_points": [
+        "Hardworking patriots built the country",
+        "They will save the country in 5 days",
+        "Thank you to Nevada supporters"
+      ]
+    },
+    {
+      "id": "113405998200625584",
+      "date": "2024-11-01T05:16:44.966Z",
+      "source_length": 179,
+      "summary": "Trump thanks supporters in New Mexico, Nevada, and Arizona, urging them to vote to defeat Kamala and save America.",
+      "key_points": [
+        "Great day in New Mexico, Nevada, and Arizona",
+        "Urges voting to 'Fire Kamala'",
+        "Aims to 'Save America'"
+      ]
+    },
+    {
+      "id": "113406381620790894",
+      "date": "2024-11-01T06:54:15.500Z",
+      "source_length": 251,
+      "summary": "Trump promotes Steve Moore's book 'The Trump Economic Miracle' as a must-read for those interested in making America great again.",
+      "key_points": [
+        "Book by Steve Moore details past achievements and future plans.",
+        "Endorsed by Donald Trump as a must-read.",
+        "Focuses on the 'Trump Economic Miracle' and making America great again."
+      ]
+    },
+    {
+      "id": "113406435291253643",
+      "date": "2024-11-01T07:07:54.442Z",
+      "source_length": 219,
+      "summary": "Melania's new book is a #1 NYT bestseller, praised by Donald Trump.",
+      "key_points": [
+        "Book 'MELANIA' is #1 NYT bestseller",
+        "Trump calls it fantastic",
+        "Trump expresses pride in Melania"
+      ]
+    },
+    {
+      "id": "113408744364085184",
+      "date": "2024-11-01T16:55:08.094Z",
+      "source_length": 151,
+      "summary": "Nate Silver accuses pollsters of manipulating data to keep the presidential race close.",
+      "key_points": [
+        "Nate Silver claims pollsters are biased.",
+        "Pollsters accused of 'putting finger on the scale'.",
+        "Allegations of lying to keep race close."
+      ]
+    },
+    {
+      "id": "113408902359347846",
+      "date": "2024-11-01T17:35:18.911Z",
+      "source_length": 53,
+      "summary": "Wishing a Blessed and Happy All Saints’ Day.",
+      "key_points": [
+        "All Saints’ Day greeting",
+        "Blessed and happy wishes"
+      ]
+    },
+    {
+      "id": "113409094351404093",
+      "date": "2024-11-01T18:24:08.477Z",
+      "source_length": 919,
+      "summary": "Mark Cuban criticized for comments about women, called a 'loser' with character flaws.",
+      "key_points": [
+        "Mark Cuban criticized for comments about women's strength and intelligence.",
+        "He is described as weak, insecure, and a bad guy.",
+        "His apology is considered worthless."
+      ]
+    },
+    {
+      "id": "113409095736564025",
+      "date": "2024-11-01T18:24:29.613Z",
+      "source_length": 489,
+      "summary": "The post criticizes Liz Cheney as a war hawk lacking courage to fight, and condemns her father's actions in the Middle East.",
+      "key_points": [
+        "Liz Cheney is a war hawk who wouldn't fight herself.",
+        "Her father profited from causing death in the Middle East.",
+        "Such people should not run the country."
+      ]
+    },
+    {
+      "id": "113409096301808777",
+      "date": "2024-11-01T18:24:38.239Z",
+      "source_length": 462,
+      "summary": "The post criticizes Kamala Harris and Joe Biden over job growth, claiming manufacturing job losses and a decline in American employment.",
+      "key_points": [
+        "Jobs report called an embarrassment for the nation.",
+        "Claims Kamala lied about job growth and killed 46,000 manufacturing jobs.",
+        "773,000 Americans lost employment in the last year, with jobs taken by foreign-born workers."
+      ]
+    },
+    {
+      "id": "113409222180035608",
+      "date": "2024-11-01T18:56:38.991Z",
+      "source_length": 220,
+      "summary": "Trump announces a live event in Warren, Michigan, streaming on multiple platforms.",
+      "key_points": [
+        "Live event in Warren, MI at 4:30pm EDT",
+        "Streaming on RSBN, OAN, Real America's Voice, Newsmax, and Rumble",
+        "MAGA2024 rally"
+      ]
+    },
+    {
+      "id": "113409893350121600",
+      "date": "2024-11-01T21:47:20.235Z",
+      "source_length": 67,
+      "summary": "Vote against Kamala on November 5th.",
+      "key_points": [
+        "Election date: November 5th",
+        "Message: reject Kamala"
+      ]
+    },
+    {
+      "id": "113409897995635071",
+      "date": "2024-11-01T21:48:31.117Z",
+      "source_length": 51,
+      "summary": "Encourages Michigan residents to dream big and vote.",
+      "key_points": [
+        "Dream big, Michigan",
+        "Link to swamp the vote website"
+      ]
+    },
+    {
+      "id": "113409905665379859",
+      "date": "2024-11-01T21:50:28.146Z",
+      "source_length": 61,
+      "summary": "A user expresses gratitude to Robert F. Kennedy Jr. and shares a link to a website.",
+      "key_points": [
+        "Thanking Robert F. Kennedy Jr.",
+        "Promoting a website: swampthevoteusa.com"
+      ]
+    },
+    {
+      "id": "113409912599241771",
+      "date": "2024-11-01T21:52:13.951Z",
+      "source_length": 204,
+      "summary": "Robert Kennedy Jr. urges his supporters to vote for Donald Trump instead of himself.",
+      "key_points": [
+        "Kennedy says his name is on the ballot but asks not to vote for him.",
+        "He tells supporters to vote for Donald Trump to get him to Washington."
+      ]
+    },
+    {
+      "id": "113409921861257885",
+      "date": "2024-11-01T21:54:35.276Z",
+      "source_length": 73,
+      "summary": "Trump claims the country is in a depression and urges voting for him to fix it.",
+      "key_points": [
+        "Claims the country is in a depression",
+        "Urges voting for Trump",
+        "Promises to get people out of it"
+      ]
+    },
+    {
+      "id": "113409939501775352",
+      "date": "2024-11-01T21:59:04.453Z",
+      "source_length": 115,
+      "summary": "Trump criticizes Kamala's EV mandate, claiming it harms Michigan's auto industry.",
+      "key_points": [
+        "Opposes electric vehicle mandate",
+        "Aims to save Michigan auto industry",
+        "Links to campaign website"
+      ]
+    },
+    {
+      "id": "113409993991930543",
+      "date": "2024-11-01T22:12:55.913Z",
+      "source_length": 191,
+      "summary": "A post from Michigan urges voting for a brighter economic future, claiming victory is near.",
+      "key_points": [
+        "Voting leads to best jobs and paychecks",
+        "Economic future will be brightest ever",
+        "Encourages immediate voting action"
+      ]
+    }
+  ]
+}

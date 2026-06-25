@@ -42,7 +42,9 @@ python lab2.py --input trump_truths.csv --output results.json --limit 20
 
 После запуска появится файл:
 
-lab2/results.json
+```
+results.json
+```
 
 Файл содержит:
 
